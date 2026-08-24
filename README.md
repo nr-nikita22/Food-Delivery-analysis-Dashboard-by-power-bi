@@ -1,4 +1,4 @@
-#Food Delivery Analysis Dashboard using Power BI
+## Food Delivery Analysis Dashboard using Power BI
 
 An interactive Power BI dashboard that analyzes food delivery operations — orders, revenue, delivery performance, food categories, customer ratings, and restaurant performance — turning raw, hard-to-read data into clear, actionable insights.
 

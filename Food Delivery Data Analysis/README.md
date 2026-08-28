@@ -74,8 +74,3 @@ The dataset (`Orders` table) includes fields such as:
 
 > Replace these placeholders with actual exported images from your Power BI dashboard.
 
-```
-/screenshots/overview-dashboard.png
-/screenshots/delivery-performance.png
-/screenshots/restaurant-analysis.png
-```
